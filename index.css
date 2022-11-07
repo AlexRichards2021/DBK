@@ -60,7 +60,7 @@ body{
 
 /*     slogan     */
 
-.backgroundting{background-image:url(./Resources/banner.jpg);
+.backgroundting{background-image:url(/Resources/banner.jpg);
                 background-repeat:no-repeat;
                 background-size: cover;
                 margin:10px auto;
